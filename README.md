@@ -1,10 +1,15 @@
 # 数据结构
 
+## Resource
+
+- [algo](https://github.com/wangzheng0822/algo)
+- [AlgorithmsByPython](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython)
+- [十大经典排序算法动图图解](https://blog.csdn.net/zhangshk_/article/details/82911093)
+
 ## 数据可视化
 
 - [lolviz](https://github.com/parrt/lolviz)
 - [networkx](https://www.osgeo.cn/networkx/tutorial.html)
-- [online](http://www.pythontutor.com/)
 
 ## 数组
 
