@@ -76,7 +76,7 @@
 - [python](8_sort.py)
 - [8-1 冒泡排序](./sort/8.1_bubble.md)
 - [8-2 选择排序](./sort/8.2_select.md)
-- [8-3 插入排序](./sort/8.3_inset.md)
+- [8-3 插入排序](./sort/8.3_insert.md)
 - [8-4 希尔排序](./sort/8.4_shell.md)
 - [8-5 归并排序](./sort/8.5_merge.md)
 - [8-6 快速排序](./sort/8.6_quick.md)
