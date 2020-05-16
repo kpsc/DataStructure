@@ -47,7 +47,8 @@
 - [5-5 平衡二叉树](5.5_avlTree.py)
 - [5-6 红黑树](5.6_rbTree.py)
 - [5-7 trie](5.7_trie.py)
-- [5-8 哈夫曼树](5.8_huffmanTree.py)
+- [5-8 双数组字典树](5.8_datree.py)
+- [5-9 哈夫曼树](5.9_huffmanTree.py)
 
 ## 图
 
